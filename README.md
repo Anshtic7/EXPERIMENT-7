@@ -205,7 +205,7 @@ Stop
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Algorithm: To Check Palindrome Number and Palindrome String Using While Loop
 
-Part A: Palindrome Number
+--->Part A: Palindrome Number
 
 Start
 
@@ -235,7 +235,7 @@ Else
 
 Proceed to Part B.
 
-Part B: Palindrome String
+--->Part B: Palindrome String
 
 Input a string original_string.
 
